@@ -1,0 +1,15 @@
+{
+  "name": "@ricokahler/exec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.0",
+    "prettier": "^2.0.5"
+  }
+}
